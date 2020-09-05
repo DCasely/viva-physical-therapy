@@ -783,15 +783,6 @@ ul ul > li.has-sub > a:before {
   position: relative;
   padding-top: 470px;
 }
-.cc_main_slide1_overlay {
-  background: #fff;
-  width: 100%;
-  height: 880px;
-  background-size: cover;
-  background-position: center 0;
-  /* position: relative; */
-  padding-top: 470px;
-}
 .cc_main_slide2 {
   background: url('../images/slider_img2.jpg') 50% 0 repeat-y;
   width: 100%;
